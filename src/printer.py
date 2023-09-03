@@ -1,3 +1,5 @@
 print("Hello world!")
 
-print("Hello version 3")
+print("Version 3")
+
+print("Hello new extension")
